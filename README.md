@@ -20,7 +20,7 @@ Particularly in this repository I translated the following workshop to Terraform
 
 > We also continue to learn about Infrastructure as Code, in this way it forces you to plan changes from a point of view of:
 > - Coding well, if you love code you can write a good IasC
-> - Maintenance, we have to things that can be maintained
+> - Maintenance, we have to have things that can be maintained
 > - Iterate over the current solution creating branches and "deploying/applying"
 
 > Also, I found some differents betweend Terraform and the AWS UI. For example the Api Getway integration in the UI says:
