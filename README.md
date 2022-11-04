@@ -27,3 +27,9 @@ Particularly in this repository I translated the following workshop to Terraform
 > Integration Typr: Lambda Function
 > but in terraform it's selected as: AWS_PROXY
 > Try to fix this kind of things is who is really interesting when we bring the infrastructure to the code 😎.
+
+Testing it from AWS-Cloud9
+<img width="1027" alt="Testing lambda-function" src="https://user-images.githubusercontent.com/21373502/199877135-bdc0e189-9324-4f0d-b97b-cc0a4db0d92b.png">
+
+
+
