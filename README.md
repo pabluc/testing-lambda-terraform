@@ -2,13 +2,17 @@
 
 I started to do the examples of this thread that I found in Twitter 
 
-🧵 https://twitter.com/TowardsAws/status/1579350414197071872?s=20&t=-gxFcW-8fPbxvG5JWyfsug 
+🧵 [Thread Link](https://twitter.com/TowardsAws/status/1579350414197071872?s=20&t=-gxFcW-8fPbxvG5JWyfsug)
 
-Particularly in this case I translated the following workshop to Terraform:
+<img width="602" alt="Screen Shot 2022-11-03 at 23 54 16" src="https://user-images.githubusercontent.com/21373502/199875166-86b24261-fbc2-441c-9583-86444cf7fd90.png">
 
-🧑🏻‍💻 https://catalog.us-east-1.prod.workshops.aws/workshops/2c8321cb-812c-45a9-927d-206eea3a500f/en-US
 
-----
+Particularly in this repository I translated the following workshop to Terraform:
+
+🧑🏻‍💻 [Workshop Link](https://catalog.us-east-1.prod.workshops.aws/workshops/2c8321cb-812c-45a9-927d-206eea3a500f/en-US)
+
+<img width="601" alt="Screen Shot 2022-11-03 at 23 55 55" src="https://user-images.githubusercontent.com/21373502/199875254-b7d218d2-f20c-4cbc-b7d2-56acaf4dfce2.png">
+
 
 💡 Learnings: 
 
