@@ -19,3 +19,8 @@ Particulary in this case I traslated the following workshop to Terraform:
 > - Coding well, if you love code you can write a good IasC
 > - Maintenance, we have to things that can be maintained
 > - Iterate over the current solution creating branches and "deploying/applying"
+
+> Also, I found some differents betweend Terraform and the AWS UI. For example the Api Getway integration in the UI says:
+> Integration Typr: Lambda Function
+> but in terraform it's selected as: AWS_PROXY
+> Try to fix this kind of things is who is really interesting when we bring the infrastructure to the code 😎.
