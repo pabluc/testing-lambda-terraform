@@ -4,10 +4,9 @@ I started to do the examples of this thread that I found in Twitter
 
 🧵 https://twitter.com/TowardsAws/status/1579350414197071872?s=20&t=-gxFcW-8fPbxvG5JWyfsug 
 
-Particulary in this case I traslated the following workshop to Terraform: 
+Particularly in this case I translated the following workshop to Terraform:
 
 🧑🏻‍💻 https://catalog.us-east-1.prod.workshops.aws/workshops/2c8321cb-812c-45a9-927d-206eea3a500f/en-US
-
 
 ----
 
